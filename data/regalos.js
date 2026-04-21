@@ -18,7 +18,7 @@ window.REGALOS = [
   // ================================================================
 
   // ——— El baño nuevo (4000 €) — sacarlo de la nada, con su muro ———
-  { id: "casa-bn-muro",     categoria: "casa", nombre: "Levantar el muro del baño nuevo",      desc: "Empezamos por lo invisible: el muro que separa lo que es baño de lo que deja de ser pasillo. Sin él no hay baño, ergo: protagonista.", precio: 340, img: "" },
+  { id: "casa-bn-muro",     categoria: "casa", nombre: "Levantar el muro del baño nuevo",      desc: "Empezamos por lo invisible: el muro que separa lo que es baño de lo que deja de ser pasillo. Sin él no hay baño, ergo: protagonista.", precio: 340, img: "https://github.com/bodalorenaysalva/bodaloreysalva.github.io/blob/main/img/muro%20bano.jpg" },
   { id: "casa-bn-wc",       categoria: "casa", nombre: "El inodoro del baño nuevo",            desc: "El trono. Con tapa amortiguada, que ya somos mayores para escuchar portazos a las tres de la mañana.", precio: 280, img: "" },
   { id: "casa-bn-lavabo",   categoria: "casa", nombre: "El lavabo del baño nuevo",             desc: "Donde Salva se mojará la cara a primera hora y Lorena se pondrá crema muy en serio.", precio: 260, img: "" },
   { id: "casa-bn-grif",     categoria: "casa", nombre: "Grifería del baño nuevo",              desc: "Ese detalle que no ves hasta que lo tocas y dices 'ah, sí, esto es un grifo bueno'.", precio: 180, img: "" },
