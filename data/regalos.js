@@ -24,9 +24,9 @@ window.REGALOS = [
   { id: "casa-bn-grif",     categoria: "casa", nombre: "Grifería del baño nuevo",              desc: "Ese detalle que no ves hasta que lo tocas y dices 'ah, sí, esto es un grifo bueno'.", precio: 180, img: "img/griferia.jpg" },
   { id: "casa-bn-azul",     categoria: "casa", nombre: "Azulejos del baño nuevo",              desc: "Elegidos tras cuatro visitas a la tienda y una pelea amistosa entre mate y brillo. Ganó el mate.", precio: 340, img: "img/azulejobano.jpg" },
   { id: "casa-bn-puerta",   categoria: "casa", nombre: "La puerta del baño nuevo",             desc: "Pequeña, discreta y capaz de cerrarse cuando toca. Tres virtudes.", precio: 220, img: "img/puertabano.jpg" },
-  { id: "casa-bn-esp",      categoria: "casa", nombre: "Espejo y luz del baño nuevo",          desc: "Para que hasta el peor lunes tenga buena cara. O al menos iluminada.", precio: 200, img: "" },
-  { id: "casa-bn-mano",     categoria: "casa", nombre: "Mano de obra · baño nuevo",            desc: "Las horas del albañil que convierten un rincón raro en un cuarto de baño de verdad.", precio: 320, img: "" },
-  { id: "casa-bn-acc",      categoria: "casa", nombre: "Accesorios del baño nuevo",            desc: "Toallero, portarrollos, ese gancho donde nunca sabes qué colgar. Pequeños pero necesarios.", precio: 150, img: "" },
+  { id: "casa-bn-esp",      categoria: "casa", nombre: "Espejo y luz del baño nuevo",          desc: "Para que hasta el peor lunes tenga buena cara. O al menos iluminada.", precio: 200, img: "img/espejoluz.jpg" },
+  { id: "casa-bn-mano",     categoria: "casa", nombre: "Mano de obra · baño nuevo",            desc: "Las horas del albañil que convierten un rincón raro en un cuarto de baño de verdad.", precio: 320, img: "img/albanizbano.jpg" },
+  { id: "casa-bn-acc",      categoria: "casa", nombre: "Accesorios del baño nuevo",            desc: "Toallero, portarrollos, ese gancho donde nunca sabes qué colgar. Pequeños pero necesarios.", precio: 150, img: "img/accesoriobano.jp" },
 
   // ——— Cocina nueva (5000 €) ———
   { id: "casa-coc-muebl1",  categoria: "casa", nombre: "Muebles de cocina · parte I",          desc: "Los armarios altos. Los de arriba. Los que nunca llegas sin ponerte de puntillas.", precio: 320, img: "" },
