@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Lorena & Salva · 11 de julio 2026</title>
+
+<!-- Recursos referenciados desde JS (para bundler standalone) -->
+<meta name="ext-resource-dependency" content="img/portada.jpeg" data-resource-id="portada" />
+<meta name="ext-resource-dependency" content="img/casa-colchon.png" data-resource-id="casa-colchon" />
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;1,400;1,500&family=Manrope:wght@300;400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+
+<link rel="stylesheet" href="styles.css">
+
+<script src="https://unpkg.com/react@18.3.1/umd/react.development.js" integrity="sha384-hD6/rw4ppMLGNu3tX5cjIb+uRZ7UkRJ6BPkLpg4hAu/6onKUg4lLsHAs9EBPT82L" crossorigin="anonymous"></script>
+<script src="https://unpkg.com/react-dom@18.3.1/umd/react-dom.development.js" integrity="sha384-u6aeetuaXnQ38mYT8rp6sbXaQe3NL9t+IBXmnYxwkUI2Hw4bsp2Wvmx4yRQF1uAm" crossorigin="anonymous"></script>
+<script src="https://unpkg.com/@babel/standalone@7.29.0/babel.min.js" integrity="sha384-m08KidiNqLdpJqLq95G/LEi8Qvjl/xUYll3QILypMoQ65QorJ9Lvtp2RXYGBFj1y" crossorigin="anonymous"></script>
+
+<template id="__bundler_thumbnail" data-bg-color="#f4efe6">
+  <svg viewBox="0 0 1200 800" xmlns="http://www.w3.org/2000/svg">
+    <rect width="1200" height="800" fill="#f4efe6"/>
+    <text x="600" y="430" font-family="Georgia, serif" font-style="italic" font-size="220" text-anchor="middle" fill="#2c2a24">L<tspan fill="#b56a4a">&amp;</tspan>S</text>
+    <text x="600" y="520" font-family="Helvetica, sans-serif" font-size="28" letter-spacing="10" text-anchor="middle" fill="#5e5a4e">11 · JULIO · 2026</text>
+  </svg>
+</template>
+</head>
+<body>
+
+<div id="root"></div>
+
+<!-- Datos y lógica -->
+<script src="data/regalos.js"></script>
+<script src="data/store.js"></script>
+
+<!-- Re-mapea rutas img/* a blob URLs inyectadas por el bundler en standalone -->
+<script>
+(function () {
+  if (!window.__resources) return;
+  var map = {
+    "img/portada.jpeg": window.__resources["portada"],
+    "img/casa-colchon.png": window.__resources["casa-colchon"]
+  };
+  // Regalos: reemplaza paths que coincidan
+  if (window.REGALOS) {
+    window.REGALOS.forEach(function (r) {
+      if (r.img && map[r.img]) r.img = map[r.img];
+    });
+  }
+  // CSS de portada: inyecta regla con blob URL
+  if (map["img/portada.jpeg"]) {
+    var s = document.createElement("style");
+    s.textContent = ".photo-placeholder{background:#000 url('" + map["img/portada.jpeg"] + "') center/cover no-repeat !important;}";
+    document.head.appendChild(s);
+  }
+})();
+</script>
+
+<!-- App -->
+<script type="text/babel" src="app.jsx"></script>
+
+</body>
+</html>
