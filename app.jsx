@@ -273,7 +273,7 @@ function ReserveModal({ regalo, onClose, onConfirm }) {
           
             {error && <div className="error">{error}</div>}
             <div className="note">
-              Al confirmar, este regalo queda reservado a tu nombre. Te pasaremos aparte el número de cuenta para el ingreso.
+              Al confirmar, este regalo queda reservado a tu nombre. Nosotros no te olvidaremos y te enviaremos una fotografía como agradecimiento de tu contribución.
             </div>
             <div className="actions">
               <button type="button" className="btn ghost" onClick={onClose}>Cancelar</button>
