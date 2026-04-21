@@ -18,12 +18,12 @@ window.REGALOS = [
   // ================================================================
 
   // ——— El baño nuevo (4000 €) — sacarlo de la nada, con su muro ———
-  { id: "casa-bn-muro",     categoria: "casa", nombre: "Levantar el muro del baño nuevo",      desc: "Empezamos por lo invisible: el muro que separa lo que es baño de lo que deja de ser pasillo. Sin él no hay baño, ergo: protagonista.", precio: 340, img: "img/murobano.png" },
-  { id: "casa-bn-wc",       categoria: "casa", nombre: "El inodoro del baño nuevo",            desc: "El trono. Con tapa amortiguada, que ya somos mayores para escuchar portazos a las tres de la mañana.", precio: 280, img: "img/inodorotapa.png" },
-  { id: "casa-bn-lavabo",   categoria: "casa", nombre: "El lavabo del baño nuevo",             desc: "Donde Salva se mojará la cara a primera hora y Lorena esperará su turno.", precio: 260, img: "img/lavabo.png" },
-  { id: "casa-bn-grif",     categoria: "casa", nombre: "Grifería del baño nuevo",              desc: "Ese detalle que no ves hasta que lo tocas y dices 'ah, sí, esto es un grifo bueno'.", precio: 180, img: "img/griferia.png" },
-  { id: "casa-bn-azul",     categoria: "casa", nombre: "Azulejos del baño nuevo",              desc: "Elegidos tras cuatro visitas a la tienda y una pelea amistosa entre mate y brillo. Ganó el mate.", precio: 340, img: "img/azulejobano.png" },
-  { id: "casa-bn-puerta",   categoria: "casa", nombre: "La puerta del baño nuevo",             desc: "Pequeña, discreta y capaz de cerrarse cuando toca. Tres virtudes.", precio: 220, img: "img/puertabano.png" },
+  { id: "casa-bn-muro",     categoria: "casa", nombre: "Levantar el muro del baño nuevo",      desc: "Empezamos por lo invisible: el muro que separa lo que es baño de lo que deja de ser pasillo. Sin él no hay baño, ergo: protagonista.", precio: 340, img: "img/murobano.jpg" },
+  { id: "casa-bn-wc",       categoria: "casa", nombre: "El inodoro del baño nuevo",            desc: "El trono. Con tapa amortiguada, que ya somos mayores para escuchar portazos a las tres de la mañana.", precio: 280, img: "img/inodorotapa.jpg" },
+  { id: "casa-bn-lavabo",   categoria: "casa", nombre: "El lavabo del baño nuevo",             desc: "Donde Salva se mojará la cara a primera hora y Lorena esperará su turno.", precio: 260, img: "img/lavabo.jpg" },
+  { id: "casa-bn-grif",     categoria: "casa", nombre: "Grifería del baño nuevo",              desc: "Ese detalle que no ves hasta que lo tocas y dices 'ah, sí, esto es un grifo bueno'.", precio: 180, img: "img/griferia.jpg" },
+  { id: "casa-bn-azul",     categoria: "casa", nombre: "Azulejos del baño nuevo",              desc: "Elegidos tras cuatro visitas a la tienda y una pelea amistosa entre mate y brillo. Ganó el mate.", precio: 340, img: "img/azulejobano.jpg" },
+  { id: "casa-bn-puerta",   categoria: "casa", nombre: "La puerta del baño nuevo",             desc: "Pequeña, discreta y capaz de cerrarse cuando toca. Tres virtudes.", precio: 220, img: "img/puertabano.jpg" },
   { id: "casa-bn-esp",      categoria: "casa", nombre: "Espejo y luz del baño nuevo",          desc: "Para que hasta el peor lunes tenga buena cara. O al menos iluminada.", precio: 200, img: "" },
   { id: "casa-bn-mano",     categoria: "casa", nombre: "Mano de obra · baño nuevo",            desc: "Las horas del albañil que convierten un rincón raro en un cuarto de baño de verdad.", precio: 320, img: "" },
   { id: "casa-bn-acc",      categoria: "casa", nombre: "Accesorios del baño nuevo",            desc: "Toallero, portarrollos, ese gancho donde nunca sabes qué colgar. Pequeños pero necesarios.", precio: 150, img: "" },
