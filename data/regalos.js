@@ -29,9 +29,9 @@ window.REGALOS = [
   { id: "casa-bn-acc",      categoria: "casa", nombre: "Accesorios del baño nuevo",            desc: "Toallero, portarrollos, ese gancho donde nunca sabes qué colgar. Pequeños pero necesarios.", precio: 150, img: "img/accesoriobano.jpg" },
 
   // ——— Cocina nueva (5000 €) ———
-  { id: "casa-coc-muebl1",  categoria: "casa", nombre: "Muebles de cocina · parte I",          desc: "Los armarios altos. Los de arriba. Los que nunca llegas sin ponerte de puntillas.", precio: 320, img: "" },
-  { id: "casa-coc-muebl2",  categoria: "casa", nombre: "Muebles de cocina · parte II",         desc: "Los bajos. Los que sí se usan. Cuatro cajones, uno exclusivo para tuppers sin tapa.", precio: 320, img: "" },
-  { id: "casa-coc-muebl3",  categoria: "casa", nombre: "Muebles de cocina · parte III",        desc: "La columna del horno. Alta, elegante, silenciosa. Como un mayordomo.", precio: 260, img: "" },
+  { id: "casa-coc-muebl1",  categoria: "casa", nombre: "Muebles de cocina",          desc: "Los armarios altos y bajos. Los de arriba. Los que nunca llegas sin ponerte de puntillas, y los de abajo, uno exclusivo para tuppers.", precio: 320, img: "img/mueblecocina.jpeg" },
+  { id: "casa-coc-muebl2",  categoria: "casa", nombre: "Placa de inducción",         desc: "La moderna, la que se limpia con un trapo y pita cuando el cazo no está centrado", precio: 320, img: "img/induccion.jpg" },
+  { id: "casa-coc-muebl3",  categoria: "casa", nombre: "Fregadero",        desc: "Donde caerán las sartenes y los sábados por la mañana. Que sea hondo, por favor", precio: 260, img: "img/fregadero.webp" },
   { id: "casa-coc-enc",     categoria: "casa", nombre: "Encimera de la cocina",                desc: "De piedra resistente. Para que aguante cuchillazos, café derramado y alguna lágrima de cebolla.", precio: 340, img: "" },
   { id: "casa-coc-freg",    categoria: "casa", nombre: "Fregadero y grifo",                    desc: "Donde caerán las sartenes y los sábados por la mañana. Que sea hondo, por favor.", precio: 220, img: "" },
   { id: "casa-coc-placa",   categoria: "casa", nombre: "Placa de inducción",                   desc: "La moderna, la que se limpia con un trapo y pita cuando el cazo no está centrado.", precio: 300, img: "" },
