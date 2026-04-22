@@ -47,7 +47,7 @@ window.REGALOS = [
   // ——— Baño entero reformado (4500 €) ———
   { id: "casa-b2-plato",    categoria: "casa", nombre: "Plato de ducha",                       desc: "Adiós a la bañera imposible de limpiar. Hola a la ducha a ras de suelo y a las piernas sin calambres.", precio: 320, img: "img/platodeducha.jpg" },
   { id: "casa-b2-mampara",  categoria: "casa", nombre: "Mampara de la ducha",                  desc: "La que decide si el suelo acaba mojado o no. Una responsabilidad enorme para un cristal.", precio: 280, img: "img/mampara.webp" },
-  { id: "casa-b2-wc",       categoria: "casa", nombre: "Inodoro del baño principal",           desc: "Suspendido. Parece que flota. En realidad está mejor anclado que nuestras vidas.", precio: 260, img: "img/inodorotapa.jpg" },
+  { id: "casa-b2-wc",       categoria: "casa", nombre: "Inodoro del baño principal",           desc: "Suspendido. Parece que flota. En realidad está mejor anclado que nuestras vidas.", precio: 260, img: "img/inodoro.jpg" },
   { id: "casa-b2-mueb",     categoria: "casa", nombre: "Mueble y lavabo doble",                desc: "Sí, doble. Porque por las mañanas hay prisa y paciencia en cantidades distintas.", precio: 340, img: "img/mueblelavabo.webp" },
   { id: "casa-b2-grif",     categoria: "casa", nombre: "Grifería y termostática",              desc: "La ducha con termostato, para que la temperatura no cambie cuando alguien abre un grifo en la cocina.", precio: 220, img: "img/termostato.jpg" },
   { id: "casa-b2-azul1",    categoria: "casa", nombre: "Azulejos del baño · parte I",          desc: "La pared de detrás del lavabo. La que se ve en todas las fotos de espejo del móvil.", precio: 320, img: "img/azulejobano.jpg" },
