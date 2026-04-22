@@ -57,22 +57,22 @@ window.REGALOS = [
   { id: "casa-b2-mano",     categoria: "casa", nombre: "Mano de obra · baño principal",        desc: "Dos semanas de obras, de escombros en el pasillo y de 'mañana ya termino'. Pagar por ello es justicia.", precio: 340, img: "img/obrabano.jpg" },
 
   // ——— Pintar las paredes (1000 €) ———
-  { id: "casa-pint-1",      categoria: "casa", nombre: "Pintura · salón y pasillo",            desc: "Un blanco con algo de ropa tendida. Nada dramático. Solo que respire la luz.", precio: 280, img: "img/platodeducha.jpg" },
-  { id: "casa-pint-2",      categoria: "casa", nombre: "Pintura · dormitorio",                 desc: "Un tono tierra muy suave, de esos que relajan sin que te des cuenta. Test de almohada aprobado.", precio: 260, img: "img/platodeducha.jpg" },
-  { id: "casa-pint-3",      categoria: "casa", nombre: "Pintura · cocina y baños",             desc: "Pintura plástica, lavable, preparada para salpicaduras y vaporcillos.", precio: 220, img: "img/platodeducha.jpg" },
-  { id: "casa-pint-4",      categoria: "casa", nombre: "Mano de obra del pintor",              desc: "El hombre del rodillo. Llega, tapa muebles, pinta, se va y todo huele a nuevo durante tres días.", precio: 240, img: "img/platodeducha.jpg" },
+  { id: "casa-pint-1",      categoria: "casa", nombre: "Pintura · salón y pasillo",            desc: "Para evitar que Heiko, Demian y Lara se pongan el mono de trabajo.", precio: 280, img: "img/pinturasalon.jpg" },
+  { id: "casa-pint-2",      categoria: "casa", nombre: "Pintura · dormitorio",                 desc: "Un tono tierra muy suave, de esos que relajan sin que te des cuenta. Test de almohada aprobado.", precio: 260, img: "img/pinturadormitorio.jpg" },
+  { id: "casa-pint-3",      categoria: "casa", nombre: "Pintura · cocina y baños",             desc: "Pintura plástica, lavable, preparada para salpicaduras y vaporcillos.", precio: 220, img: "img/pinturacocina.webp" },
+  { id: "casa-pint-4",      categoria: "casa", nombre: "Mano de obra del pintor",              desc: "El hombre del rodillo. Llega, tapa muebles, pinta, se va y todo huele a nuevo durante tres días.", precio: 240, img: "img/pintor.jpg" },
 
   // ——— Tarima flotante (1000 €) ———
-  { id: "casa-tar-1",       categoria: "casa", nombre: "Tarima · salón",                       desc: "Suelo nuevo que suena a hogar nuevo. Nos acostumbraremos en tres días a no llevar zapatos.", precio: 340, img: "img/platodeducha.jpg" },
-  { id: "casa-tar-2",       categoria: "casa", nombre: "Tarima · dormitorio",                  desc: "Caliente al pie, silencioso en las sobremesas. Y con un dibujo que imita una madera bonita.", precio: 320, img: "img/platodeducha.jpg" },
-  { id: "casa-tar-3",       categoria: "casa", nombre: "Rodapié y colocación",                 desc: "Ese detallito que separa un suelo de un suelo bien puesto. Lo notarás o no, pero está ahí.", precio: 340, img: "img/platodeducha.jpg" },
+  { id: "casa-tar-1",       categoria: "casa", nombre: "Tarima · salón",                       desc: "Suelo nuevo que suena a hogar nuevo. Nos acostumbraremos en tres días a no llevar zapatos.", precio: 340, img: "img/tarimasalon.png" },
+  { id: "casa-tar-2",       categoria: "casa", nombre: "Tarima · dormitorio",                  desc: "Caliente al pie, silencioso en las sobremesas. Y con un dibujo que imita una madera bonita.", precio: 320, img: "img/tarimadormitorio.jpg" },
+  { id: "casa-tar-3",       categoria: "casa", nombre: "Rodapié y colocación",                 desc: "Ese detallito que separa un suelo de un suelo bien puesto. Lo notarás o no, pero está ahí.", precio: 340, img: "img/rodapies.jpg" },
 
   // ——— Muebles pendientes ———
-  { id: "casa-cama-1",      categoria: "casa", nombre: "La cama · estructura",                 desc: "Literalmente el mueble más usado de nuestra vida. Lo justo es pagar por él a plazos generacionales.", precio: 260, img: "img/platodeducha.jpg" },
-  { id: "casa-cama-2",      categoria: "casa", nombre: "La cama · cabecero",                   desc: "Tapizado, para leer sin clavarse la pared. Obligatorio en toda casa que se precie.", precio: 220, img: "img/platodeducha.jpg" },
+  { id: "casa-cama-1",      categoria: "casa", nombre: "La cama · estructura",                 desc: "Literalmente el mueble más usado de nuestra vida. Lo justo es pagar por él a plazos generacionales.", precio: 260, img: "img/estructura.webp" },
+  { id: "casa-cama-2",      categoria: "casa", nombre: "La cama · cabecero",                   desc: "Tapizado, para leer sin clavarse la pared. Obligatorio en toda casa que se precie.", precio: 220, img: "img/estructura.jpeg" },
   { id: "casa-colchon",     categoria: "casa", nombre: "Colchón en condiciones",               desc: "De los que no se hunden. El buen dormir empieza aquí.", precio: 340, img: "img/casa-colchon.png" },
-  { id: "casa-mesillas",    categoria: "casa", nombre: "Mesillas de noche (pareja)",           desc: "Dos iguales, para evitar conflictos territoriales. Cada una con su lámpara y su libro empezado.", precio: 240, img: "img/platodeducha.jpg" },
-  { id: "casa-sofa-1",      categoria: "casa", nombre: "Sofá · armazón",                       desc: "La estructura del protagonista del salón. De él dependen siestas, series y visitas.", precio: 320, img: "img/platodeducha.jpg" },
+  { id: "casa-mesillas",    categoria: "casa", nombre: "Mesillas de noche (pareja)",           desc: "Dos iguales, para evitar conflictos territoriales. Cada una con su lámpara y su libro empezado.", precio: 240, img: "img/mesanoche.jpg" },
+  { id: "casa-sofa-1",      categoria: "casa", nombre: "Sofá · armazón",                       desc: "La estructura del protagonista del salón. De él dependen siestas, series y visitas.", precio: 320, img: "img/sofa.jpg" },
   { id: "casa-sofa-2",      categoria: "casa", nombre: "Sofá · chaise longue",                 desc: "El rincón para estirar las piernas. Negociable. Lo negociaremos contigo si lo reservas.", precio: 280, img: "img/platodeducha.jpg" },
   { id: "casa-mesasalon",   categoria: "casa", nombre: "Mesa de centro del salón",             desc: "Donde aterrizarán tés, mandos, llaves, revistas, cacahuetes y, algún domingo, los pies.", precio: 200, img: "img/platodeducha.jpg" },
   { id: "casa-mesacom-1",   categoria: "casa", nombre: "Mesa de comedor",                      desc: "De madera noble, de esa que envejece bien con manchas de vino y sobremesas largas.", precio: 340, img: "img/platodeducha.jpg" },
