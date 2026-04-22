@@ -76,12 +76,12 @@ window.REGALOS = [
   { id: "casa-sofa-2",      categoria: "casa", nombre: "Reposapie",                 desc: "El rincón para estirar las piernas. Y de paso para guardar la manta del sofá.", precio: 280, img: "img/reposapie.avif" },
   { id: "casa-mesasalon",   categoria: "casa", nombre: "Mesa de centro del salón",             desc: "Donde aterrizarán tés, mandos, llaves, revistas, cacahuetes y, algún domingo, los pies.", precio: 200, img: "img/mesacentro.webp" },
   { id: "casa-mesacom-1",   categoria: "casa", nombre: "Mesa de comedor",                      desc: "De madera noble, de esa que envejece bien con manchas de vino y sobremesas largas.", precio: 340, img: "img/mesacomedor.webp" },
-  { id: "casa-sillas-1",    categoria: "casa", nombre: "Sillas de comedor · parte I",          desc: "Tres sillas. Las del lado de Lorena, donde se habla más y se come más despacio.", precio: 200, img: "img/platodeducha.jpg" },
-  { id: "casa-sillas-2",    categoria: "casa", nombre: "Sillas de comedor · parte II",         desc: "Otras tres. Las del lado de Salva, donde la copa se vacía antes.", precio: 200, img: "img/platodeducha.jpg" },
-  { id: "casa-lampsalon",   categoria: "casa", nombre: "Lámpara de techo del salón",           desc: "La que dará luz a nuestras cenas, a los partidos importantes y a las discusiones sobre qué peli ver.", precio: 220, img: "img/platodeducha.jpg" },
-  { id: "casa-lampcom",     categoria: "casa", nombre: "Lámpara de techo del comedor",         desc: "Baja, sobre la mesa. De esas que dibujan sombras bonitas y hacen que la cena parezca otra cosa.", precio: 200, img: "img/platodeducha.jpg" },
-  { id: "casa-ventilador1", categoria: "casa", nombre: "Ventilador de techo · salón",          desc: "Porque un agosto en el Mediterráneo sin aspas girando es un castigo innecesario.", precio: 180, img: "img/platodeducha.jpg" },
-  { id: "casa-ventilador2", categoria: "casa", nombre: "Ventilador de techo · dormitorio",     desc: "Con mando. Para no tener que levantarse. Es esa clase de regalo que se usa todas las noches de julio a septiembre.", precio: 180, img: "img/platodeducha.jpg" },
+  { id: "casa-sillas-1",    categoria: "casa", nombre: "Sillas de comedor",          desc: "La que dará luz a nuestras cenas, a los partidos importantes y a las discusiones sobre qué peli ver", precio: 200, img: "img/sillacomedor.jpg" },
+  { id: "casa-sillas-2",    categoria: "casa", nombre: "Mueble Tocadisco",         desc: "Los vinilos de Lorena ya tienen sitio donde colocarse.", precio: 200, img: "img/muebletocadisco.jpg" },
+  { id: "casa-lampsalon",   categoria: "casa", nombre: "Mesa Terraza",           desc: "Donde colocar una taza de café mientras entran los primeros rayos de sol.", precio: 220, img: "img/mesabalcon.webp" },
+  { id: "casa-lampcom",     categoria: "casa", nombre: "Librería",         desc: "Lo suficientemente amplio para que entre los años de estudio de Lorena y los papers de Salva", precio: 200, img: "img/estanteria.jpg" },
+  { id: "casa-ventilador1", categoria: "casa", nombre: "Ventilador de techo · salón",          desc: "Porque un agosto en el Mediterráneo sin aspas girando es un castigo innecesario.", precio: 180, img: "img/lamparasalon.webp" },
+  { id: "casa-ventilador2", categoria: "casa", nombre: "Escritorio",     desc: "Para no dejar de trabajar los findes", precio: 180, img: "img/escritorio.avif" },
 
   // ================================================================
   //  EL VIAJE — 15 días · Tokio, Kioto, Bali y Singapur
