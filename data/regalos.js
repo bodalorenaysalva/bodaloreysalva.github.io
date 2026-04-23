@@ -53,8 +53,8 @@ window.REGALOS = [
   { id: "casa-b2-azul1",    categoria: "casa", nombre: "Macetero",          desc: "Nos encanta las plantas y sobre todo cuando no gotean cuando se riegan.", precio: 320, img: "img/macetero.avif" },
   { id: "casa-b2-azul2",    categoria: "casa", nombre: "Azulejos del baño · parte II",         desc: "La pared de la ducha. Esa que hay que limpiar con ganas una vez al mes.", precio: 320, img: "img/azulejoplato.webp" },
   { id: "casa-b2-suelo",    categoria: "casa", nombre: "Suelo del baño",                       desc: "Antideslizante, porque nadie quiere que una ducha termine en urgencias.", precio: 240, img: "img/suelobano.jpg" },
-  { id: "casa-b2-esp",      categoria: "casa", nombre: "Espejo retroiluminado",                desc: "Con lucecita detrás. Queda de revista. Es el tipo de capricho que no te arrepientes de tener.", precio: 220, img: "img/espejoiluminado.jpg" },
-  { id: "casa-b2-mano",     categoria: "casa", nombre: "Mano de obra · baño principal",        desc: "Dos semanas de obras, de escombros en el pasillo y de 'mañana ya termino'. Pagar por ello es justicia.", precio: 340, img: "img/obrabano.jpg" },
+  { id: "casa-b2-esp",      categoria: "casa", nombre: "Vajilla",                desc: "Vajilla mediterránea, cerámica mallorquina.", precio: 220, img: "img/vajilla.jpg" },
+  { id: "casa-b2-mano",     categoria: "casa", nombre: "Recibidor",        desc: "Todo en uno, banco-recibidor y zapatero.", precio: 340, img: "img/obrabano.jpg" },
 
   // ——— Pintar las paredes (1000 €) ———
   { id: "casa-pint-1",      categoria: "casa", nombre: "Pintura · salón y pasillo",            desc: "Para evitar que Heiko, Demian y Lara se pongan el mono de trabajo.", precio: 280, img: "img/pinturasalon.jpg" },
