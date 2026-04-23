@@ -84,7 +84,7 @@ window.REGALOS = [
   { id: "casa-ventilador2", categoria: "casa", nombre: "Escritorio",     desc: "Para no dejar de trabajar los findes", precio: 180, img: "img/escritorio.avif" },
 
   // ================================================================
-  //  EL VIAJE — 15 días · Tokio, Kioto, Bali y Singapur
+  //  EL VIAJE — 15 días · Destino Sorpresa
   // ================================================================
   //  Vuelos ~ 6000 € · Hoteles ~ 1000 € · Extras
 
@@ -112,11 +112,11 @@ window.REGALOS = [
   // ——— Cenas y experiencias por destino ———
   { id: "viaje-tk-sushi",   categoria: "viaje", nombre: "Cena de sushi",              desc: "Barra de madera, maestro serio, sake tibio. A Lorena le pediremos otra cosa que le guste. Cena esas que recuerdas años después y salivas un poco.", precio: 260, img: "img/sushi.jpg" },
   { id: "viaje-tk-ramen",   categoria: "viaje", nombre: "Buffet libre",          desc: "Para recuperar esos kilos que hemos perdido por el camino.", precio: 150, img: "img/bufethotel.jpg" },
-  { id: "viaje-tk-karaoke", categoria: "viaje", nombre: "Paseo en barco",          desc: "Para pasearnos como Tanya en White Lotus pero con un mejor destino", precio: 150, img: "mg/barco.webp" },
-  { id: "viaje-tk-teamlab", categoria: "viaje", nombre: "Entradas a teamLab",                  desc: "El museo de luces infinitas. Salen mil fotos y ninguna le hace justicia. Hay que estar allí.", precio: 160, img: "" },
+  { id: "viaje-tk-karaoke", categoria: "viaje", nombre: "Paseo en barco",          desc: "Para pasearnos como Tanya en White Lotus pero con un mejor destino", precio: 150, img: "img/barco.webp" },
+  { id: "viaje-tk-teamlab", categoria: "viaje", nombre: "Snorkel",                  desc: "Excursión acuática", precio: 160, img: "img/barco.webp" },
 
-  { id: "viaje-ky-kaiseki", categoria: "viaje", nombre: "Cena kaiseki en Kioto",               desc: "Doce pases, porcelana delicada, gestos estudiados. La cena que cuentas en las cenas durante años.", precio: 320, img: "" },
-  { id: "viaje-ky-geisha",  categoria: "viaje", nombre: "Paseo por Gion al atardecer",         desc: "Con guía local, entre farolillos, esperando ver una geisha cruzar rápido una calle de madera.", precio: 180, img: "" },
+  { id: "viaje-ky-kaiseki", categoria: "viaje", nombre: "Imanes de regalo",               desc: "Directo a tu nevera", precio: 320, img: "img/imanes.jpg" },
+  { id: "viaje-ky-geisha",  categoria: "viaje", nombre: "Tarde tranquila",         desc: "con un buen Cocktail en mano.", precio: 180, img: "img/coctelcoco.jpg" },
   { id: "viaje-ky-bambu",   categoria: "viaje", nombre: "Bosque de bambú de Arashiyama",       desc: "Al amanecer, antes de que llegue nadie. El silencio ahí dentro se oye. Raro y bonito.", precio: 150, img: "" },
   { id: "viaje-ky-te",      categoria: "viaje", nombre: "Ceremonia del té",                    desc: "Matcha batido a mano, gestos lentos, media hora de vida en cámara lenta. Necesario.", precio: 150, img: "" },
   { id: "viaje-ky-kimono",  categoria: "viaje", nombre: "Alquiler de kimono por un día",       desc: "Sí, los dos. Sí, haremos fotos ridículas. Sí, las colgaremos. Y las vais a ver.", precio: 150, img: "" },
