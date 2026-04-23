@@ -95,7 +95,7 @@ window.REGALOS = [
   { id: "viaje-vuelo-4",    categoria: "viaje", nombre: "Alquiler coche",            desc: "Para no perdernos nada mejor en coche.", precio: 340, img: "img/alquilercoche.jpg" },
   { id: "viaje-tren-ky",    categoria: "viaje", nombre: "Hotel para 3 primeras noches",                   desc: "Para recomponernos del jetlag.", precio: 220, img: "img/hotel.avif" },
   { id: "viaje-vuelo-5",    categoria: "viaje", nombre: "Primeras excursiones",        desc: "Aunque nos gusta ir por libre las excursiones mejor contratadas.", precio: 320, img: "img/excursion.jpg" },
-  { id: "viaje-vuelo-6",    categoria: "viaje", nombre: "Vuelo Kioto → Bali · tramo II",       desc: "La escala, el bocadillo raro, ese rato en la sala de tránsito que parece durar días.", precio: 320, img: "" },
+  { id: "viaje-vuelo-6",    categoria: "viaje", nombre: "Visita cuevas ",       desc: "Sin desvelar el destino, os damos una pista: visita a cueva con luciérnagas.", precio: 320, img: "img/visitacuevas.jpg" },
   { id: "viaje-vuelo-7",    categoria: "viaje", nombre: "Vuelo Bali → Singapur",               desc: "Trayecto corto. Perfecto para echarse un sueño con la frente contra la ventanilla.", precio: 260, img: "" },
   { id: "viaje-vuelo-8",    categoria: "viaje", nombre: "Vuelo vuelta · tramo I",              desc: "La vuelta. La parte del viaje que duele un poquito. Se compensa con el menú del avión.", precio: 340, img: "" },
   { id: "viaje-vuelo-9",    categoria: "viaje", nombre: "Vuelo vuelta · tramo II",             desc: "El último tramo. Llegamos con jet lag, 2.000 fotos y los pies hinchados.", precio: 340, img: "" },
