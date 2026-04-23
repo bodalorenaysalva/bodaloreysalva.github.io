@@ -106,7 +106,7 @@ window.REGALOS = [
   { id: "viaje-hotel-tk1",  categoria: "viaje", nombre: "Hotel para la 4, 5 y 6 noche",            desc: "El destino al que vamos tiene muy buena pinta", precio: 180, img: "img/hotel.avif" },
   { id: "viaje-hotel-tk2",  categoria: "viaje", nombre: "Hotel en noche 7, 8 y 9",           desc: "Otra noche. Porque una ciudad así no se ve en veinticuatro horas ni de broma.", precio: 180, img: "img/hotel.avif" },
   { id: "viaje-ryokan",     categoria: "viaje", nombre: "Cena con vistas",                     desc: "Los lugares no se pueden conocer sin probar su gastronomia", precio: 220, img: "img/cenavistas.jpeg" },
-  { id: "viaje-villa-bl1",  categoria: "viaje", nombre: "Cocotero",             desc: "Para desconectar del ruido de la ciudad y echar una vuena siestas.", precio: 220, img: "img/cocotero.jpg" },
+  { id: "viaje-villa-bl1",  categoria: "viaje", nombre: "Cocotero",             desc: "Para desconectar del ruido de la ciudad y echar una buena siesta.", precio: 220, img: "img/cocotero.jpg" },
   { id: "viaje-villa-bl2",  categoria: "viaje", nombre: "Vuelo entre escalas",            desc: "De nuevo pasaporte en mano.", precio: 200, img: "img/vueloparaiso.jpg" },
 
   // ——— Cenas y experiencias por destino ———
