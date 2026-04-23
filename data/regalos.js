@@ -111,13 +111,13 @@ window.REGALOS = [
 
   // ——— Cenas y experiencias por destino ———
   { id: "viaje-tk-sushi",   categoria: "viaje", nombre: "Cena de sushi",              desc: "Barra de madera, maestro serio, sake tibio. A Lorena le pediremos otra cosa que le guste. Cena esas que recuerdas años después y salivas un poco.", precio: 260, img: "img/sushi.jpg" },
-  { id: "viaje-tk-ramen",   categoria: "viaje", nombre: "Buffet libre",          desc: "Para recuperar esos kilos que hemos perdido por el camino.", precio: 150, img: "img/bufethotel.jpg" },
+  { id: "viaje-tk-ramen",   categoria: "viaje", nombre: "Buffet libre",          desc: "Para recuperar esos kilos que hemos perdido por el camino.", precio: 150, img: "img/bufethotel.jpeg" },
   { id: "viaje-tk-karaoke", categoria: "viaje", nombre: "Paseo en barco",          desc: "Para pasearnos como Tanya en White Lotus pero con un mejor destino", precio: 150, img: "img/barco.webp" },
-  { id: "viaje-tk-teamlab", categoria: "viaje", nombre: "Snorkel",                  desc: "Excursión acuática", precio: 160, img: "img/barco.webp" },
+  { id: "viaje-tk-teamlab", categoria: "viaje", nombre: "Snorkel",                  desc: "Excursión acuática", precio: 160, img: "img/snorkel.jpg" },
 
   { id: "viaje-ky-kaiseki", categoria: "viaje", nombre: "Imanes de regalo",               desc: "Directo a tu nevera", precio: 320, img: "img/imanes.jpg" },
-  { id: "viaje-ky-geisha",  categoria: "viaje", nombre: "Tarde tranquila",         desc: "con un buen Cocktail en mano.", precio: 180, img: "img/coctelcoco.jpg" },
-  { id: "viaje-ky-bambu",   categoria: "viaje", nombre: "Piragua",       desc: "Al amanecer, antes de que llegue nadie. El silencio ahí dentro se oye. Raro y bonito.", precio: 150, img: "img/piraguay.avif" },
+  { id: "viaje-ky-geisha",  categoria: "viaje", nombre: "Tarde tranquila",         desc: "con un buen Cocktail en mano.", precio: 180, img: "img/coctelcoco.jpge" },
+  { id: "viaje-ky-bambu",   categoria: "viaje", nombre: "Piragua",       desc: "Al amanecer, antes de que llegue nadie. El silencio ahí dentro se oye. Raro y bonito.", precio: 150, img: "img/piragua.avif" },
   { id: "viaje-ky-te",      categoria: "viaje", nombre: "Alquiler de bicicleta",                    desc: "Una forma original de recorrer nuestro destino.", precio: 150, img: "img/bici.jpg" },
   { id: "viaje-ky-kimono",  categoria: "viaje", nombre: "Tour 4x4",       desc: "Para que todo vaya sobreruedas.", precio: 150, img: "img/safari.avif" },
 
@@ -136,5 +136,5 @@ window.REGALOS = [
   // ——— Extras del viaje ———
   { id: "viaje-fotos",      categoria: "viaje", nombre: "Vuelo de vuelta",          desc: "Bye bye", precio: 280, img: "img/vuelovuelta.jpeg" },
   { id: "viaje-seguro",     categoria: "viaje", nombre: "Seguro de viaje",                      desc: "El regalo menos sexy de la lista. El que más agradeceremos si algo sale ligeramente mal.", precio: 150, img: "img/seguro.jpg" },
-  { id: "viaje-ultima",     categoria: "viaje", nombre: "La última cena del viaje",             desc: "La que siempre duele un poco. Merece un sitio especial, un brindis y una promesa de volver.", precio: 260, img: "img/seguro.jpg" }
+  { id: "viaje-ultima",     categoria: "viaje", nombre: "La última cena del viaje",             desc: "La que siempre duele un poco. Merece un sitio especial, un brindis y una promesa de volver.", precio: 260, img: "img/cena.jpg" }
 ];
