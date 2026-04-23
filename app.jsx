@@ -76,21 +76,21 @@ function Mensaje() {
             en la que queremos pasar los próximos mil inviernos y escaparnos quince días
             de luna de miel para recordar cómo es no tener escombros en el pasillo.
           </p>
-          <p>La casa está en modo cráter: hay un baño que aún no existe pero ya tiene nombre, una cocina marcada con cinta de carrocero, paredes pidiendo pintura a gritos y un suelo que, a día de hoy, sigue siendo el de la anterior dueña.
+          <p>La casa está pendiente de una buena reforma: hay un baño que aún no existe pero ya tiene nombre, una cocina marcada con cinta de carrocero, paredes pidiendo pintura a gritos y un suelo que, a día de hoy, sigue siendo el de la anterior dueña.
 
 
 
 
           </p>
           <p>
-            Así que hemos trocado la típica lista de vajillas por algo más útil:
+            Así que hemos cambiado la típica lista de regalos por algo más útil:
             <strong> trocitos de la reforma</strong> (un inodoro, unos azulejos, la
             mano de obra del pintor) y <strong>trocitos del viaje</strong> (un vuelo,
             una cena, un masaje). Cada regalo es para una persona, pareja o panda que
-            se ponga de acuerdo. Elegís, ponéis vuestro nombre, y ya está.
+            se ponga de acuerdo. Elegís, ponéis vuestro nombre, y ya está. Y tranquilos, que nadie os pedirá el ticket.
           </p>
           <p>
-            Del número de cuenta os avisamos aparte, para no aburriros con dígitos.
+            Del número de cuenta no os preocupéis, os lo pasamos en la invitación, para no aburriros con dígitos.
             Y gracias, en serio: por venir, por estar y por regalarnos un trozo de
             nuestras próximas alegrías domésticas.
           </p>
@@ -124,7 +124,7 @@ function Ceremonia() {
             </div>
             <div className="eyebrow">{CONFIG.ceremonia.hora}</div>
             <h3>Ceremonia</h3>
-            <p>{CONFIG.ceremonia.detalle} frente al mar, con la luz que pone el Cabo de Gata a esa hora. Traed algo para el viento, por si acaso.</p>
+            <p>{CONFIG.ceremonia.detalle} frente al mar, con la luz que pone el Cabo de Gata a esa hora.</p>
           </div>
           <div>
             <div className="ico-day" aria-hidden="true">
@@ -137,7 +137,7 @@ function Ceremonia() {
             </div>
             <div className="eyebrow">{CONFIG.banquete.hora}</div>
             <h3>Cena</h3>
-            <p>{CONFIG.banquete.detalle}. Habrá vino. Habrá postre. Habrá un discurso que esperamos que sea breve.</p>
+            <p>{CONFIG.banquete.detalle}. Habrá vino. Habrá postre. Habrá recena.</p>
           </div>
           <div>
             <div className="ico-day" aria-hidden="true">
@@ -268,7 +268,7 @@ function ReserveModal({ regalo, onClose, onConfirm }) {
             <input
             id="nombre" ref={inputRef} type="text" value={nombre}
             onChange={(e) => {setNombre(e.target.value);setError("");}}
-            placeholder="Ej: Marta y Jordi"
+            placeholder="Ej: Lorena y Salva"
             maxLength={60} />
           
             {error && <div className="error">{error}</div>}
