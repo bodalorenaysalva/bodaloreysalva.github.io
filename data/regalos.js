@@ -99,8 +99,8 @@ window.REGALOS = [
   { id: "viaje-vuelo-7",    categoria: "viaje", nombre: "Paseo en tranvía",               desc: "No todo va a ser patear la ciudad.", precio: 260, img: "img/tranvia.jpg" },
   { id: "viaje-vuelo-8",    categoria: "viaje", nombre: "Fuentes Termales",              desc: "Ticket para ver las fuentes termales", precio: 340, img: "img/fuentetermal.jpg" },
   { id: "viaje-vuelo-9",    categoria: "viaje", nombre: "Baño de lodo",             desc: "No es indispensable, si no lo reservais casi mejor.", precio: 340, img: "img/lodo.jpg'" },
-  { id: "viaje-vuelo-10",   categoria: "viaje", nombre: "Tasas, maletas y equipaje",           desc: "Eso que siempre aparece al final y cuesta más de lo que esperas. Pagarlo sin maldecir es un arte.", precio: 200, img: "" },
-  { id: "viaje-traslados",  categoria: "viaje", nombre: "Taxis y traslados entre destinos",    desc: "Del aeropuerto al hotel, del hotel a otro hotel. Siempre con la maleta que no cierra.", precio: 180, img: "" },
+  { id: "viaje-vuelo-10",   categoria: "viaje", nombre: "Tasas, maletas y equipaje",           desc: "Eso que siempre aparece al final y cuesta más de lo que esperas. Pagarlo sin maldecir es un arte.", precio: 200, img: "img/factura.jpg" },
+  { id: "viaje-traslados",  categoria: "viaje", nombre: "Taxis y traslados entre destinos",    desc: "Del aeropuerto al hotel, del hotel a otro hotel. Siempre con la maleta que no cierra.", precio: 180, img: "img/taxi.avif" },
 
   // ——— Hoteles (1000 €) ———
   { id: "viaje-hotel-tk1",  categoria: "viaje", nombre: "Hotel en Tokio · noche I",            desc: "Shibuya. Ventana a luces de neón, vending machines y gente caminando muy deprisa.", precio: 180, img: "" },
