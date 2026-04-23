@@ -89,10 +89,10 @@ window.REGALOS = [
   //  Vuelos ~ 6000 € · Hoteles ~ 1000 € · Extras
 
   // ——— Vuelos y traslados (6000 €) ———
-  { id: "viaje-vuelo-1",    categoria: "viaje", nombre: "Vuelo a Tokio · tramo I",             desc: "Los dos con ojeras en la puerta de embarque, mirando las maletas, preguntándonos si lo hemos cogido todo. Empieza la aventura.", precio: 340, img: "" },
-  { id: "viaje-vuelo-2",    categoria: "viaje", nombre: "Vuelo a Tokio · tramo II",            desc: "La hora turbia del vuelo. Ya no sabes si es día o noche, ni si esa cena en bandeja era desayuno.", precio: 340, img: "" },
-  { id: "viaje-vuelo-3",    categoria: "viaje", nombre: "Vuelo a Tokio · tramo III",           desc: "Aterrizamos en Haneda con cara de recién levantados y un emoción que no cabe en el avión.", precio: 340, img: "" },
-  { id: "viaje-vuelo-4",    categoria: "viaje", nombre: "Vuelo a Tokio · tramo IV",            desc: "Los últimos kilómetros del billete a Tokio. Para que no falte ni un litro de queroseno.", precio: 340, img: "" },
+  { id: "viaje-vuelo-1",    categoria: "viaje", nombre: "Vuelo con escala · tramo ida",             desc: "Los dos con ojeras en la puerta de embarque, mirando las maletas, preguntándonos si lo hemos cogido todo. Empieza la aventura.", precio: 340, img: "img/vueloescala.jpg" },
+  { id: "viaje-vuelo-2",    categoria: "viaje", nombre: "Noche lugar con escala · tramo ida",            desc: "Demasiados kilòmetros para hacerlo del tirón, mejor con parada .", precio: 340, img: "img/hotelescala.jpg" },
+  { id: "viaje-vuelo-3",    categoria: "viaje", nombre: "Vuelo al paraíso · tramo ida",           desc: "Segunda vez que embarcamos pero ahora sí al destino final.", precio: 340, img: "img/vueloparaíso.jpg" },
+  { id: "viaje-vuelo-4",    categoria: "viaje", nombre: "Alquiler coche",            desc: "Para no perdernos nada mejor en coche.", precio: 340, img: "img/alquilercoche.jpg" },
   { id: "viaje-tren-ky",    categoria: "viaje", nombre: "Tren bala a Kioto",                   desc: "Shinkansen. Con bento box en el regazo. Vistas a Fuji si hay suerte. Fotos movidas aseguradas.", precio: 220, img: "" },
   { id: "viaje-vuelo-5",    categoria: "viaje", nombre: "Vuelo Kioto → Bali · tramo I",        desc: "Cambio de continente y, con él, cambio de ropa en el aeropuerto. Del kimono al bañador.", precio: 320, img: "" },
   { id: "viaje-vuelo-6",    categoria: "viaje", nombre: "Vuelo Kioto → Bali · tramo II",       desc: "La escala, el bocadillo raro, ese rato en la sala de tránsito que parece durar días.", precio: 320, img: "" },
