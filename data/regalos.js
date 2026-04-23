@@ -116,7 +116,7 @@ window.REGALOS = [
   { id: "viaje-tk-teamlab", categoria: "viaje", nombre: "Snorkel",                  desc: "Excursión acuática", precio: 160, img: "img/snorkel.jpg" },
 
   { id: "viaje-ky-kaiseki", categoria: "viaje", nombre: "Imanes de regalo",               desc: "Directo a tu nevera", precio: 320, img: "img/imanes.jpg" },
-  { id: "viaje-ky-geisha",  categoria: "viaje", nombre: "Tarde tranquila",         desc: "con un buen Cocktail en mano.", precio: 180, img: "img/coctelcoco.jpge" },
+  { id: "viaje-ky-geisha",  categoria: "viaje", nombre: "Tarde tranquila",         desc: "con un buen Cocktail en mano.", precio: 180, img: "img/coctelcoco.jpeg" },
   { id: "viaje-ky-bambu",   categoria: "viaje", nombre: "Piragua",       desc: "Al amanecer, antes de que llegue nadie. El silencio ahí dentro se oye. Raro y bonito.", precio: 150, img: "img/piragua.avif" },
   { id: "viaje-ky-te",      categoria: "viaje", nombre: "Alquiler de bicicleta",                    desc: "Una forma original de recorrer nuestro destino.", precio: 150, img: "img/bici.jpg" },
   { id: "viaje-ky-kimono",  categoria: "viaje", nombre: "Tour 4x4",       desc: "Para que todo vaya sobreruedas.", precio: 150, img: "img/safari.avif" },
