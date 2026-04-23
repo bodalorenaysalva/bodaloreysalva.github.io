@@ -119,22 +119,22 @@ window.REGALOS = [
   { id: "viaje-ky-geisha",  categoria: "viaje", nombre: "Tarde tranquila",         desc: "con un buen Cocktail en mano.", precio: 180, img: "img/coctelcoco.jpg" },
   { id: "viaje-ky-bambu",   categoria: "viaje", nombre: "Piragua",       desc: "Al amanecer, antes de que llegue nadie. El silencio ahí dentro se oye. Raro y bonito.", precio: 150, img: "img/piraguay.avif" },
   { id: "viaje-ky-te",      categoria: "viaje", nombre: "Alquiler de bicicleta",                    desc: "Una forma original de recorrer nuestro destino.", precio: 150, img: "img/bici.jpg" },
-  { id: "viaje-ky-kimono",  categoria: "viaje", nombre: "Tour 4x4",       desc: "Para que todo vaya sobreruedas.", precio: 150, img: "mg/safari.avif" },
+  { id: "viaje-ky-kimono",  categoria: "viaje", nombre: "Tour 4x4",       desc: "Para que todo vaya sobreruedas.", precio: 150, img: "img/safari.avif" },
 
-  { id: "viaje-bl-cena",    categoria: "viaje", nombre: "Cena en acantilado en Uluwatu",       desc: "Con vistas, con atardecer, con esa cuenta que llega y pagas feliz porque el sol hizo cosas mágicas.", precio: 260, img: "" },
-  { id: "viaje-bl-masaje",  categoria: "viaje", nombre: "Masaje balinés en pareja",             desc: "Una hora de masaje. Veinte minutos de 'qué bien estoy'. Cinco de dormirse sin querer.", precio: 220, img: "" },
-  { id: "viaje-bl-arroz",   categoria: "viaje", nombre: "Excursión a los arrozales de Ubud",    desc: "Ese verde que parece retocado y en realidad es así de indecente. Fotos para nietos.", precio: 170, img: "" },
-  { id: "viaje-bl-templo",  categoria: "viaje", nombre: "Día de templos y ofrendas",            desc: "Con sarong incluido, guía local e historias que repetiremos mal durante años.", precio: 180, img: "" },
-  { id: "viaje-bl-surf",    categoria: "viaje", nombre: "Clase de surf en Canggu",              desc: "Nos caeremos mucho. Nos reiremos más. Al final, saldrá una ola. Foto cutre incluida.", precio: 160, img: "" },
-  { id: "viaje-bl-snorkel", categoria: "viaje", nombre: "Snorkel en Nusa Penida",               desc: "Manta rayas si hay suerte. Peces imposibles si no. Lorena saldrá con la nariz roja: seguro.", precio: 190, img: "" },
+  { id: "viaje-bl-cena",    categoria: "viaje", nombre: "Fotorecuerdo",       desc: "Típico gasto innecesario que querrá comprar Lorena.", precio: 260, img: "img/fotorecuerdo.webp" },
+  { id: "viaje-bl-masaje",  categoria: "viaje", nombre: "Noche de hotel 10, 11 y 12",             desc: "Esto empieza a terminarse :( ", precio: 220, img: "img/hotel.avif" },
+  { id: "viaje-bl-arroz",   categoria: "viaje", nombre: "Vuelo con escala: tramo de vuelta",    desc: "Nos despedimos de unos días únicos pero aún nos queda nuevo destino.", precio: 170, img: "img/vueloescala.jpg" },
+  { id: "viaje-bl-templo",  categoria: "viaje", nombre: "Cena especial",            desc: "Nueva y última parada, y nueva mesa por descubrir.", precio: 180, img: "img/cenaespecial.jpg" },
+  { id: "viaje-bl-surf",    categoria: "viaje", nombre: "Últimas excursiones",              desc: "Con mucha pena pero casi nos estamos despidiendo ", precio: 160, img: "img/excursion.jpeg" },
+  { id: "viaje-bl-snorkel", categoria: "viaje", nombre: "Noche de hotel 13, 14 y 15",               desc: "Los últimos días de nuestro viaje", precio: 190, img: "img/hotel.avif" },
 
-  { id: "viaje-sg-cena",    categoria: "viaje", nombre: "Cena en Marina Bay",                   desc: "Rascacielos, skyline iluminado, esa sensación de estar dentro de una peli futurista.", precio: 280, img: "" },
-  { id: "viaje-sg-coc",     categoria: "viaje", nombre: "Cócteles en azotea de Singapur",       desc: "De esos con copa bonita y precio raro. Pero con toda la ciudad abajo. Merece cada céntimo.", precio: 180, img: "" },
-  { id: "viaje-sg-hawker",  categoria: "viaje", nombre: "Ruta de hawker centers",               desc: "Chili crab, laksa, satay. Puestos callejeros que esconden estrellas Michelin entre los manteles de plástico.", precio: 150, img: "" },
-  { id: "viaje-sg-gardens", categoria: "viaje", nombre: "Gardens by the Bay",                   desc: "Los árboles gigantes con luces. Parece ciencia ficción. Es jueves por la noche en Singapur.", precio: 150, img: "" },
+  { id: "viaje-sg-cena",    categoria: "viaje", nombre: "Rooftop",                   desc: "Otra perspectiva desde las alturas.", precio: 280, img: "img/rooftop.webp" },
+  { id: "viaje-sg-coc",     categoria: "viaje", nombre: "Metro",       desc: "Bonoturista por 10 viajes.", precio: 180, img: "img/metro.jpg" },
+  { id: "viaje-sg-hawker",  categoria: "viaje", nombre: "Brunch",               desc: "Aunque parece mentira, hay vida fuera del buffet del hotel", precio: 150, img: "img/brunch.jpg" },
+  { id: "viaje-sg-gardens", categoria: "viaje", nombre: "Museo",                   desc: "Hay tiempo para todo", precio: 150, img: "img/museo.avif" },
 
   // ——— Extras del viaje ———
-  { id: "viaje-fotos",      categoria: "viaje", nombre: "Sesión de fotos profesional",          desc: "Para tener al menos una foto del viaje donde los dos salgamos decentes y no a contraluz.", precio: 280, img: "" },
-  { id: "viaje-seguro",     categoria: "viaje", nombre: "Seguro de viaje",                      desc: "El regalo menos sexy de la lista. El que más agradeceremos si algo sale ligeramente mal.", precio: 150, img: "" },
-  { id: "viaje-ultima",     categoria: "viaje", nombre: "La última cena del viaje",             desc: "La que siempre duele un poco. Merece un sitio especial, un brindis y una promesa de volver.", precio: 260, img: "" }
+  { id: "viaje-fotos",      categoria: "viaje", nombre: "Vuelo de vuelta",          desc: "Bye bye", precio: 280, img: "img/vuelovuelta.jpeg" },
+  { id: "viaje-seguro",     categoria: "viaje", nombre: "Seguro de viaje",                      desc: "El regalo menos sexy de la lista. El que más agradeceremos si algo sale ligeramente mal.", precio: 150, img: "img/seguro.jpg" },
+  { id: "viaje-ultima",     categoria: "viaje", nombre: "La última cena del viaje",             desc: "La que siempre duele un poco. Merece un sitio especial, un brindis y una promesa de volver.", precio: 260, img: "img/seguro.jpg" }
 ];
