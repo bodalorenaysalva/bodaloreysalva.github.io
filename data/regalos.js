@@ -91,28 +91,28 @@ window.REGALOS = [
   // ——— Vuelos y traslados (6000 €) ———
   { id: "viaje-vuelo-1",    categoria: "viaje", nombre: "Vuelo con escala · tramo ida",             desc: "Los dos con ojeras en la puerta de embarque, mirando las maletas, preguntándonos si lo hemos cogido todo. Empieza la aventura.", precio: 340, img: "img/vueloescala.jpg" },
   { id: "viaje-vuelo-2",    categoria: "viaje", nombre: "Noche ciudad con escala · tramo ida",            desc: "Demasiados kilòmetros para hacerlo del tirón, mejor con parada .", precio: 340, img: "img/hotelescala.jpg" },
-  { id: "viaje-vuelo-3",    categoria: "viaje", nombre: "Vuelo al paraíso · tramo ida",           desc: "Segunda vez que embarcamos pero ahora sí al destino final.", precio: 340, img: "img/vueloparaíso.jpg" },
-  { id: "viaje-vuelo-4",    categoria: "viaje", nombre: "Alquiler coche",            desc: "Para no perdernos nada mejor en coche.", precio: 340, img: "img/alquilercoche.jpg" },
+  { id: "viaje-vuelo-3",    categoria: "viaje", nombre: "Vuelo al paraíso · tramo ida",           desc: "Segunda vez que embarcamos pero ahora sí al destino final.", precio: 340, img: "img/vueloparaiso.jpg" },
+  { id: "viaje-vuelo-4",    categoria: "viaje", nombre: "Alquiler coche",            desc: "Para no perdernos nada mejor en coche.", precio: 340, img: "img/alquilercoche.webp" },
   { id: "viaje-tren-ky",    categoria: "viaje", nombre: "Hotel para 3 primeras noches",                   desc: "Para recomponernos del jetlag.", precio: 220, img: "img/hotel.avif" },
   { id: "viaje-vuelo-5",    categoria: "viaje", nombre: "Primeras excursiones",        desc: "Aunque nos gusta ir por libre las excursiones mejor contratadas.", precio: 320, img: "img/excursion.jpg" },
   { id: "viaje-vuelo-6",    categoria: "viaje", nombre: "Visita cuevas ",       desc: "Sin desvelar el destino, os damos una pista: visita a cueva con luciérnagas.", precio: 320, img: "img/visitacuevas.jpg" },
   { id: "viaje-vuelo-7",    categoria: "viaje", nombre: "Paseo en tranvía",               desc: "No todo va a ser patear la ciudad.", precio: 260, img: "img/tranvia.jpg" },
   { id: "viaje-vuelo-8",    categoria: "viaje", nombre: "Fuentes Termales",              desc: "Ticket para ver las fuentes termales", precio: 340, img: "img/fuentetermal.jpg" },
-  { id: "viaje-vuelo-9",    categoria: "viaje", nombre: "Baño de lodo",             desc: "No es indispensable, si no lo reservais casi mejor.", precio: 340, img: "img/lodo.jpg'" },
+  { id: "viaje-vuelo-9",    categoria: "viaje", nombre: "Baño de lodo",             desc: "No es indispensable, si no lo reservais casi mejor.", precio: 340, img: "img/lodo.jpg" },
   { id: "viaje-vuelo-10",   categoria: "viaje", nombre: "Tasas, maletas y equipaje",           desc: "Eso que siempre aparece al final y cuesta más de lo que esperas. Pagarlo sin maldecir es un arte.", precio: 200, img: "img/factura.jpg" },
   { id: "viaje-traslados",  categoria: "viaje", nombre: "Taxis y traslados entre destinos",    desc: "Del aeropuerto al hotel, del hotel a otro hotel. Siempre con la maleta que no cierra.", precio: 180, img: "img/taxi.avif" },
 
   // ——— Hoteles (1000 €) ———
-  { id: "viaje-hotel-tk1",  categoria: "viaje", nombre: "Hotel para la 4, 5 y 6 noche",            desc: "El destino al que vamos tiene muy buena pinta", precio: 180, img: "img/hotelescala.jpg" },
-  { id: "viaje-hotel-tk2",  categoria: "viaje", nombre: "Hotel en noche 7, 8 y 9",           desc: "Otra noche. Porque una ciudad así no se ve en veinticuatro horas ni de broma.", precio: 180, img: "img/hotelescala.jpg" },
-  { id: "viaje-ryokan",     categoria: "viaje", nombre: "Cena con vistas",                     desc: "Los lugares no se pueden conocer sin probar su gastronomia", precio: 220, img: "img/cenavistas.jpg" },
+  { id: "viaje-hotel-tk1",  categoria: "viaje", nombre: "Hotel para la 4, 5 y 6 noche",            desc: "El destino al que vamos tiene muy buena pinta", precio: 180, img: "img/hotel.avif" },
+  { id: "viaje-hotel-tk2",  categoria: "viaje", nombre: "Hotel en noche 7, 8 y 9",           desc: "Otra noche. Porque una ciudad así no se ve en veinticuatro horas ni de broma.", precio: 180, img: "img/hotel.avif" },
+  { id: "viaje-ryokan",     categoria: "viaje", nombre: "Cena con vistas",                     desc: "Los lugares no se pueden conocer sin probar su gastronomia", precio: 220, img: "img/cenavistas.jpeg" },
   { id: "viaje-villa-bl1",  categoria: "viaje", nombre: "Cocotero",             desc: "Para desconectar del ruido de la ciudad y echar una vuena siestas.", precio: 220, img: "img/cocotero.jpg" },
-  { id: "viaje-villa-bl2",  categoria: "viaje", nombre: "Villa en Bali · noche II",            desc: "Repite. Porque irse de Bali al día siguiente es directamente una grosería con la isla.", precio: 200, img: "" },
+  { id: "viaje-villa-bl2",  categoria: "viaje", nombre: "Vuelo entre escalas",            desc: "De nuevo pasaporte en mano.", precio: 200, img: "img/vueloparaíso.jpg" },
 
   // ——— Cenas y experiencias por destino ———
-  { id: "viaje-tk-sushi",   categoria: "viaje", nombre: "Cena de sushi en Tokio",              desc: "Barra de madera, maestro serio, sake tibio. De esas que recuerdas años después y salivas un poco.", precio: 260, img: "" },
-  { id: "viaje-tk-ramen",   categoria: "viaje", nombre: "Ronda de ramen en Shinjuku",          desc: "De esos callejones que huelen a caldo tres esquinas antes. Mesa compartida con gente que no volveremos a ver.", precio: 150, img: "" },
-  { id: "viaje-tk-karaoke", categoria: "viaje", nombre: "Karaoke privado en Shibuya",          desc: "Cantaremos fatal. Tú pagas la sala; las risas las ponemos nosotros. Habrá vídeos. Peligrosos.", precio: 150, img: "" },
+  { id: "viaje-tk-sushi",   categoria: "viaje", nombre: "Cena de sushi",              desc: "Barra de madera, maestro serio, sake tibio. A Lorena le pediremos otra cosa que le guste. Cena esas que recuerdas años después y salivas un poco.", precio: 260, img: "img/sushi.jpg" },
+  { id: "viaje-tk-ramen",   categoria: "viaje", nombre: "Buffet libre",          desc: "Para recuperar esos kilos que hemos perdido por el camino.", precio: 150, img: "img/bufethotel.jpg" },
+  { id: "viaje-tk-karaoke", categoria: "viaje", nombre: "Paseo en barco",          desc: "Para pasearnos como Tanya en White Lotus pero con un mejor destino", precio: 150, img: "mg/barco.webp" },
   { id: "viaje-tk-teamlab", categoria: "viaje", nombre: "Entradas a teamLab",                  desc: "El museo de luces infinitas. Salen mil fotos y ninguna le hace justicia. Hay que estar allí.", precio: 160, img: "" },
 
   { id: "viaje-ky-kaiseki", categoria: "viaje", nombre: "Cena kaiseki en Kioto",               desc: "Doce pases, porcelana delicada, gestos estudiados. La cena que cuentas en las cenas durante años.", precio: 320, img: "" },
