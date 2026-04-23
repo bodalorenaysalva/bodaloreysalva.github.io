@@ -96,9 +96,9 @@ window.REGALOS = [
   { id: "viaje-tren-ky",    categoria: "viaje", nombre: "Hotel para 3 primeras noches",                   desc: "Para recomponernos del jetlag.", precio: 220, img: "img/hotel.avif" },
   { id: "viaje-vuelo-5",    categoria: "viaje", nombre: "Primeras excursiones",        desc: "Aunque nos gusta ir por libre las excursiones mejor contratadas.", precio: 320, img: "img/excursion.jpg" },
   { id: "viaje-vuelo-6",    categoria: "viaje", nombre: "Visita cuevas ",       desc: "Sin desvelar el destino, os damos una pista: visita a cueva con luciérnagas.", precio: 320, img: "img/visitacuevas.jpg" },
-  { id: "viaje-vuelo-7",    categoria: "viaje", nombre: "Vuelo Bali → Singapur",               desc: "Trayecto corto. Perfecto para echarse un sueño con la frente contra la ventanilla.", precio: 260, img: "" },
-  { id: "viaje-vuelo-8",    categoria: "viaje", nombre: "Vuelo vuelta · tramo I",              desc: "La vuelta. La parte del viaje que duele un poquito. Se compensa con el menú del avión.", precio: 340, img: "" },
-  { id: "viaje-vuelo-9",    categoria: "viaje", nombre: "Vuelo vuelta · tramo II",             desc: "El último tramo. Llegamos con jet lag, 2.000 fotos y los pies hinchados.", precio: 340, img: "" },
+  { id: "viaje-vuelo-7",    categoria: "viaje", nombre: "Paseo en tranvía",               desc: "No todo va a ser patear la ciudad.", precio: 260, img: "img/tranvia.jpg" },
+  { id: "viaje-vuelo-8",    categoria: "viaje", nombre: "Fuentes Termales",              desc: "Ticket para ver las fuentes termales", precio: 340, img: "img/fuentetermal.jpg" },
+  { id: "viaje-vuelo-9",    categoria: "viaje", nombre: "Baño de lodo",             desc: "No es indispensable, si no lo reservais casi mejor.", precio: 340, img: "img/lodo.jpg'" },
   { id: "viaje-vuelo-10",   categoria: "viaje", nombre: "Tasas, maletas y equipaje",           desc: "Eso que siempre aparece al final y cuesta más de lo que esperas. Pagarlo sin maldecir es un arte.", precio: 200, img: "" },
   { id: "viaje-traslados",  categoria: "viaje", nombre: "Taxis y traslados entre destinos",    desc: "Del aeropuerto al hotel, del hotel a otro hotel. Siempre con la maleta que no cierra.", precio: 180, img: "" },
 
