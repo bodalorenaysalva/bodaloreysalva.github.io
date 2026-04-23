@@ -103,10 +103,10 @@ window.REGALOS = [
   { id: "viaje-traslados",  categoria: "viaje", nombre: "Taxis y traslados entre destinos",    desc: "Del aeropuerto al hotel, del hotel a otro hotel. Siempre con la maleta que no cierra.", precio: 180, img: "img/taxi.avif" },
 
   // ——— Hoteles (1000 €) ———
-  { id: "viaje-hotel-tk1",  categoria: "viaje", nombre: "Hotel en Tokio · noche I",            desc: "Shibuya. Ventana a luces de neón, vending machines y gente caminando muy deprisa.", precio: 180, img: "" },
-  { id: "viaje-hotel-tk2",  categoria: "viaje", nombre: "Hotel en Tokio · noche II",           desc: "Otra noche. Porque una ciudad así no se ve en veinticuatro horas ni de broma.", precio: 180, img: "" },
-  { id: "viaje-ryokan",     categoria: "viaje", nombre: "Ryokan en Kioto",                     desc: "Tatami, futón, bata, ritual del onsen. La experiencia japonesa de catálogo. Y merece la pena.", precio: 220, img: "" },
-  { id: "viaje-villa-bl1",  categoria: "viaje", nombre: "Villa en Bali · noche I",             desc: "Piscina privada, mosquitera de película y, muy probablemente, una rana en el jardín.", precio: 220, img: "" },
+  { id: "viaje-hotel-tk1",  categoria: "viaje", nombre: "Hotel para la 4, 5 y 6 noche",            desc: "El destino al que vamos tiene muy buena pinta", precio: 180, img: "img/hotelescala.jpg" },
+  { id: "viaje-hotel-tk2",  categoria: "viaje", nombre: "Hotel en noche 7, 8 y 9",           desc: "Otra noche. Porque una ciudad así no se ve en veinticuatro horas ni de broma.", precio: 180, img: "img/hotelescala.jpg" },
+  { id: "viaje-ryokan",     categoria: "viaje", nombre: "Cena con vistas",                     desc: "Los lugares no se pueden conocer sin probar su gastronomia", precio: 220, img: "img/cenavistas.jpg" },
+  { id: "viaje-villa-bl1",  categoria: "viaje", nombre: "Cocotero",             desc: "Para desconectar del ruido de la ciudad y echar una vuena siestas.", precio: 220, img: "img/cocotero.jpg" },
   { id: "viaje-villa-bl2",  categoria: "viaje", nombre: "Villa en Bali · noche II",            desc: "Repite. Porque irse de Bali al día siguiente es directamente una grosería con la isla.", precio: 200, img: "" },
 
   // ——— Cenas y experiencias por destino ———
