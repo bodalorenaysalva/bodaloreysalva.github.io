@@ -107,7 +107,7 @@ window.REGALOS = [
   { id: "viaje-hotel-tk2",  categoria: "viaje", nombre: "Hotel en noche 7, 8 y 9",           desc: "Otra noche. Porque una ciudad así no se ve en veinticuatro horas ni de broma.", precio: 180, img: "img/hotel.avif" },
   { id: "viaje-ryokan",     categoria: "viaje", nombre: "Cena con vistas",                     desc: "Los lugares no se pueden conocer sin probar su gastronomia", precio: 220, img: "img/cenavistas.jpeg" },
   { id: "viaje-villa-bl1",  categoria: "viaje", nombre: "Cocotero",             desc: "Para desconectar del ruido de la ciudad y echar una vuena siestas.", precio: 220, img: "img/cocotero.jpg" },
-  { id: "viaje-villa-bl2",  categoria: "viaje", nombre: "Vuelo entre escalas",            desc: "De nuevo pasaporte en mano.", precio: 200, img: "img/vueloparaíso.jpg" },
+  { id: "viaje-villa-bl2",  categoria: "viaje", nombre: "Vuelo entre escalas",            desc: "De nuevo pasaporte en mano.", precio: 200, img: "img/vueloparaiso.jpg" },
 
   // ——— Cenas y experiencias por destino ———
   { id: "viaje-tk-sushi",   categoria: "viaje", nombre: "Cena de sushi",              desc: "Barra de madera, maestro serio, sake tibio. A Lorena le pediremos otra cosa que le guste. Cena esas que recuerdas años después y salivas un poco.", precio: 260, img: "img/sushi.jpg" },
@@ -117,9 +117,9 @@ window.REGALOS = [
 
   { id: "viaje-ky-kaiseki", categoria: "viaje", nombre: "Imanes de regalo",               desc: "Directo a tu nevera", precio: 320, img: "img/imanes.jpg" },
   { id: "viaje-ky-geisha",  categoria: "viaje", nombre: "Tarde tranquila",         desc: "con un buen Cocktail en mano.", precio: 180, img: "img/coctelcoco.jpg" },
-  { id: "viaje-ky-bambu",   categoria: "viaje", nombre: "Bosque de bambú de Arashiyama",       desc: "Al amanecer, antes de que llegue nadie. El silencio ahí dentro se oye. Raro y bonito.", precio: 150, img: "" },
-  { id: "viaje-ky-te",      categoria: "viaje", nombre: "Ceremonia del té",                    desc: "Matcha batido a mano, gestos lentos, media hora de vida en cámara lenta. Necesario.", precio: 150, img: "" },
-  { id: "viaje-ky-kimono",  categoria: "viaje", nombre: "Alquiler de kimono por un día",       desc: "Sí, los dos. Sí, haremos fotos ridículas. Sí, las colgaremos. Y las vais a ver.", precio: 150, img: "" },
+  { id: "viaje-ky-bambu",   categoria: "viaje", nombre: "Piragua",       desc: "Al amanecer, antes de que llegue nadie. El silencio ahí dentro se oye. Raro y bonito.", precio: 150, img: "img/piraguay.avif" },
+  { id: "viaje-ky-te",      categoria: "viaje", nombre: "Alquiler de bicicleta",                    desc: "Una forma original de recorrer nuestro destino.", precio: 150, img: "img/bici.jpg" },
+  { id: "viaje-ky-kimono",  categoria: "viaje", nombre: "Tour 4x4",       desc: "Para que todo vaya sobreruedas.", precio: 150, img: "mg/safari.avif" },
 
   { id: "viaje-bl-cena",    categoria: "viaje", nombre: "Cena en acantilado en Uluwatu",       desc: "Con vistas, con atardecer, con esa cuenta que llega y pagas feliz porque el sol hizo cosas mágicas.", precio: 260, img: "" },
   { id: "viaje-bl-masaje",  categoria: "viaje", nombre: "Masaje balinés en pareja",             desc: "Una hora de masaje. Veinte minutos de 'qué bien estoy'. Cinco de dormirse sin querer.", precio: 220, img: "" },
