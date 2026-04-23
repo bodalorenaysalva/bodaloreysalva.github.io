@@ -51,7 +51,7 @@ window.REGALOS = [
   { id: "casa-b2-mueb",     categoria: "casa", nombre: "Mueble y lavabo doble",                desc: "Sí, doble. Porque por las mañanas hay prisa y paciencia en cantidades distintas.", precio: 340, img: "img/mueblelavabo.webp" },
   { id: "casa-b2-grif",     categoria: "casa", nombre: "Grifería y termostática",              desc: "La ducha con termostato, para que la temperatura no cambie cuando alguien abre un grifo en la cocina.", precio: 220, img: "img/termostato.jpg" },
   { id: "casa-b2-azul1",    categoria: "casa", nombre: "Macetero",          desc: "Nos encanta las plantas y sobre todo cuando no gotean cuando se riegan.", precio: 320, img: "img/macetero.avif" },
-  { id: "casa-b2-azul2",    categoria: "casa", nombre: "Azulejos del baño · parte II",         desc: "La pared de la ducha. Esa que hay que limpiar con ganas una vez al mes.", precio: 320, img: "img/azulejoplato.webp" },
+  { id: "casa-b2-azul2",    categoria: "casa", nombre: "Azulejos del baño",         desc: "La pared de la ducha. Esa que hay que limpiar con ganas una vez al mes.", precio: 320, img: "img/azulejoplato.webp" },
   { id: "casa-b2-suelo",    categoria: "casa", nombre: "Suelo del baño",                       desc: "Antideslizante, porque nadie quiere que una ducha termine en urgencias.", precio: 240, img: "img/suelobano.jpg" },
   { id: "casa-b2-esp",      categoria: "casa", nombre: "Vajilla",                desc: "Vajilla mediterránea, cerámica mallorquina.", precio: 220, img: "img/vajilla.jpg" },
   { id: "casa-b2-mano",     categoria: "casa", nombre: "Recibidor",        desc: "Todo en uno, banco-recibidor y zapatero.", precio: 340, img: "img/recibidor.jpg" },
@@ -90,11 +90,11 @@ window.REGALOS = [
 
   // ——— Vuelos y traslados (6000 €) ———
   { id: "viaje-vuelo-1",    categoria: "viaje", nombre: "Vuelo con escala · tramo ida",             desc: "Los dos con ojeras en la puerta de embarque, mirando las maletas, preguntándonos si lo hemos cogido todo. Empieza la aventura.", precio: 340, img: "img/vueloescala.jpg" },
-  { id: "viaje-vuelo-2",    categoria: "viaje", nombre: "Noche lugar con escala · tramo ida",            desc: "Demasiados kilòmetros para hacerlo del tirón, mejor con parada .", precio: 340, img: "img/hotelescala.jpg" },
+  { id: "viaje-vuelo-2",    categoria: "viaje", nombre: "Noche ciudad con escala · tramo ida",            desc: "Demasiados kilòmetros para hacerlo del tirón, mejor con parada .", precio: 340, img: "img/hotelescala.jpg" },
   { id: "viaje-vuelo-3",    categoria: "viaje", nombre: "Vuelo al paraíso · tramo ida",           desc: "Segunda vez que embarcamos pero ahora sí al destino final.", precio: 340, img: "img/vueloparaíso.jpg" },
   { id: "viaje-vuelo-4",    categoria: "viaje", nombre: "Alquiler coche",            desc: "Para no perdernos nada mejor en coche.", precio: 340, img: "img/alquilercoche.jpg" },
-  { id: "viaje-tren-ky",    categoria: "viaje", nombre: "Tren bala a Kioto",                   desc: "Shinkansen. Con bento box en el regazo. Vistas a Fuji si hay suerte. Fotos movidas aseguradas.", precio: 220, img: "" },
-  { id: "viaje-vuelo-5",    categoria: "viaje", nombre: "Vuelo Kioto → Bali · tramo I",        desc: "Cambio de continente y, con él, cambio de ropa en el aeropuerto. Del kimono al bañador.", precio: 320, img: "" },
+  { id: "viaje-tren-ky",    categoria: "viaje", nombre: "Hotel para 3 primeras noches",                   desc: "Para recomponernos del jetlag.", precio: 220, img: "img/hotel.avif" },
+  { id: "viaje-vuelo-5",    categoria: "viaje", nombre: "Primeras excursiones",        desc: "Aunque nos gusta ir por libre las excursiones mejor contratadas.", precio: 320, img: "img/excursion.jpg" },
   { id: "viaje-vuelo-6",    categoria: "viaje", nombre: "Vuelo Kioto → Bali · tramo II",       desc: "La escala, el bocadillo raro, ese rato en la sala de tránsito que parece durar días.", precio: 320, img: "" },
   { id: "viaje-vuelo-7",    categoria: "viaje", nombre: "Vuelo Bali → Singapur",               desc: "Trayecto corto. Perfecto para echarse un sueño con la frente contra la ventanilla.", precio: 260, img: "" },
   { id: "viaje-vuelo-8",    categoria: "viaje", nombre: "Vuelo vuelta · tramo I",              desc: "La vuelta. La parte del viaje que duele un poquito. Se compensa con el menú del avión.", precio: 340, img: "" },
