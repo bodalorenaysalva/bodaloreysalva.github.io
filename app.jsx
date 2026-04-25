@@ -87,10 +87,10 @@ function Mensaje() {
             <strong> trocitos de la reforma</strong> (un inodoro, unos azulejos, la
             mano de obra del pintor) o <strong>trocitos del viaje</strong> (un vuelo,
             una cena, un masaje). Cada regalo es para una persona, pareja o panda que
-            se ponga de acuerdo. Elegís, ponéis vuestro nombre, y ya nosotros nos ocupamos de ello. Os enviaremos una foto cuando todo esté terminado para que veáis cómo ha terminado.
+            se ponga de acuerdo. Elegís, ponéis vuestro nombre, y ya nosotros nos ocupamos de ello. Os enviaremos una foto cuando todo esté terminado para que veáis cómo ha quedado.
           </p>
           <p>
-            ES75 0128 7820 8801 0448 4045 Bankinter
+            Os facilitamos el número de cuenta: ES75 0128 7820 8801 0448 4045 (Bankinter).
             Y gracias, en serio: por venir, por estar y por regalarnos un trozo de
             nuestras próximas alegrías domésticas.
           </p>
