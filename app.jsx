@@ -83,14 +83,14 @@ function Mensaje() {
 
           </p>
           <p>
-            Así que hemos cambiado la típica lista de regalos por algo más útil:
+            Así que hemos cambiado la típica lista de regalos por algo más útil. Con vuestra aportación os invitamos a que decidáis en qué lo vamos a emplear:
             <strong> trocitos de la reforma</strong> (un inodoro, unos azulejos, la
-            mano de obra del pintor) y <strong>trocitos del viaje</strong> (un vuelo,
+            mano de obra del pintor) o <strong>trocitos del viaje</strong> (un vuelo,
             una cena, un masaje). Cada regalo es para una persona, pareja o panda que
-            se ponga de acuerdo. Elegís, ponéis vuestro nombre, y ya está. Y tranquilos, que nadie os pedirá el ticket.
+            se ponga de acuerdo. Elegís, ponéis vuestro nombre, y ya nosotros nos ocupamos de ello. Os enviaremos una foto cuando todo esté terminado para que veáis cómo ha terminado.
           </p>
           <p>
-            Del número de cuenta no os preocupéis, os lo pasamos en la invitación, para no aburriros con dígitos.
+            ES75 0128 7820 8801 0448 4045 Bankinter
             Y gracias, en serio: por venir, por estar y por regalarnos un trozo de
             nuestras próximas alegrías domésticas.
           </p>
@@ -124,7 +124,7 @@ function Ceremonia() {
             </div>
             <div className="eyebrow">{CONFIG.ceremonia.hora}</div>
             <h3>Ceremonia</h3>
-            <p>{CONFIG.ceremonia.detalle} frente al mar, con la luz que pone el Cabo de Gata a esa hora.</p>
+            <p>{CONFIG.ceremonia.detalle} frente al mar, con la luz que pone el Cabo de Gata a esa hora. Pondremos autobús desde San José y desde Almería.</p>
           </div>
           <div>
             <div className="ico-day" aria-hidden="true">
@@ -150,14 +150,14 @@ function Ceremonia() {
             </div>
             <div className="eyebrow">{CONFIG.fiesta.hora}</div>
             <h3>Fiesta</h3>
-            <p>{CONFIG.fiesta.detalle}. Zapatos cómodos, por favor. La pista es de las que piden guerra.</p>
+            <p>{CONFIG.fiesta.detalle}. ¡A darlo todo en la pista!.</p>
           </div>
         </div>
 
         <div className="map-wrap">
           <div className="map-head">
             <div>
-              <div className="eyebrow">Ceremonia Civil</div>
+              <div className="eyebrow">Ceremonia Civil: pondremos autobús </div>
               <h3 className="map-title">{CONFIG.lugar}</h3>
               <p className="map-sub">{CONFIG.ciudad} · 36.756264, −2.121693</p>
             </div>
