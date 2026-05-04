@@ -253,7 +253,6 @@ function ReserveModal({ regalo, onClose, onConfirm }) {
             <h3>¡Reservado!</h3>
             <p>
               Gracias, <strong>{nombre}</strong>. Has elegido <em>{regalo.nombre}</em>.
-              Te pasaremos el número de cuenta por otro lado para que hagas el ingreso.
             </p>
             <div className="actions" style={{ justifyContent: "center" }}>
               <button className="btn" onClick={onClose}>Cerrar</button>
