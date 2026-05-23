@@ -549,8 +549,8 @@ function App() {
       </div>
 
       <Hero />
-      <Mensaje />
       <div id="detalles"><Ceremonia /></div>
+      <Mensaje />
       <ListaRegalos reservas={reservas} onPick={setPicking} />
 
       <footer>
