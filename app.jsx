@@ -98,7 +98,7 @@ function Ceremonia() {
             </div>
             <div className="eyebrow">{CONFIG.banquete.hora}</div>
             <h3>Cena</h3>
-            <p>{CONFIG.banquete.detalle}. Habrá vino. Habrá postre. Habrá recena.Para llegar desde el lugar de la ceremonia, aunque son 5 minutos andando, pondremos habrás autobús también. </p>
+            <p>{CONFIG.banquete.detalle}. Habrá vino. Habrá postre. Habrá recena. Para llegar desde el lugar de la ceremonia, aunque son 5 minutos andando, pondremos habrás autobús también. </p>
           </div>
           <div>
             <div className="ico-day" aria-hidden="true">
