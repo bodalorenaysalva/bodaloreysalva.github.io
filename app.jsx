@@ -85,7 +85,7 @@ function Ceremonia() {
             </div>
             <div className="eyebrow">{CONFIG.ceremonia.hora}</div>
             <h3>Ceremonia</h3>
-            <p>{CONFIG.ceremonia.detalle} frente al mar, con la luz que pone el Cabo de Gata a esa hora. Pondremos autobús desde San José y desde Almería.</p>
+            <p>{CONFIG.ceremonia.detalle} frente al mar, con la luz que pone el Cabo de Gata a esa hora. <strong> Pondremos autobús desde San José y desde Almería. </strong></p>
           </div>
           <div>
             <div className="ico-day" aria-hidden="true">
@@ -98,7 +98,7 @@ function Ceremonia() {
             </div>
             <div className="eyebrow">{CONFIG.banquete.hora}</div>
             <h3>Cena</h3>
-            <p>{CONFIG.banquete.detalle}. Habrá vino. Habrá postre. Habrá recena.</p>
+            <p>{CONFIG.banquete.detalle}. Habrá vino. Habrá postre. Habrá recena.Para llegar desde el lugar de la ceremonia, aunque son 5 minutos andando, pondremos habrás autobús también. </p>
           </div>
           <div>
             <div className="ico-day" aria-hidden="true">
