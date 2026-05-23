@@ -314,11 +314,11 @@ function ListaRegalos({ reservas, onPick }) {
         <div className="regalos-head">
           <div>
             <div className="eyebrow">La lista</div>
-            <h2>Elige tu regalo</h2>
+            <h2>Elige en qué destinamos algo de tu aportación</h2>
           </div>
           <p>
-            {freeCount} regalos disponibles · cada uno para una persona o grupo.
-            Cosas para la casa nueva y trocitos del viaje de novios.
+            {freeCount} elecciones disponibles · cada uno para una persona o grupo.
+            Cosas para la casa nueva y trocitos del viaje de novios. Se trata de ponerle luego cara a tu aportación.
           </p>
         </div>
 
