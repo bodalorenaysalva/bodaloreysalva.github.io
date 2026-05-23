@@ -62,45 +62,6 @@ function Hero() {
 
 }
 
-// ---------- MENSAJE --------------------------------------------
-function Mensaje() {
-  return (
-    <section className="section">
-      <div className="wrap two-col">
-        <div className="photo-placeholder" />
-        <div className="message">
-          <div className="eyebrow">Una nota de los novios</div>
-          <h2>Vuestra presencia es el regalo. Esto es la letra pequeña.</h2>
-          <p>
-            Estamos haciendo dos cosas a la vez y las dos dan vértigo: reformar la casa
-            en la que queremos pasar los próximos mil inviernos y escaparnos quince días
-            de luna de miel para recordar cómo es no tener escombros en el pasillo.
-          </p>
-          <p>La casa está pendiente de una buena reforma: hay un baño que aún no existe pero ya tiene nombre, una cocina marcada con cinta de carrocero, paredes pidiendo pintura a gritos y un suelo que, a día de hoy, sigue siendo el de la anterior dueña.
-
-
-
-
-          </p>
-          <p>
-            Así que hemos cambiado la típica lista de regalos por algo más útil. Con vuestra aportación os invitamos a que decidáis en qué lo vamos a emplear:
-            <strong> trocitos de la reforma</strong> (un inodoro, unos azulejos, la
-            mano de obra del pintor) o <strong>trocitos del viaje</strong> (un vuelo,
-            una cena, un masaje). Cada regalo es para una persona, pareja o panda que
-            se ponga de acuerdo. Elegís, ponéis vuestro nombre, y ya nosotros nos ocupamos de ello. Os enviaremos una foto cuando todo esté terminado para que veáis cómo ha quedado.
-          </p>
-          <p>
-            Os facilitamos el número de cuenta: ES75 0128 7820 8801 0448 4045 (Bankinter).
-            Y gracias, en serio: por venir, por estar y por regalarnos un trozo de
-            nuestras próximas alegrías domésticas.
-          </p>
-          <div className="sign">— Lorena &amp; Salva</div>
-        </div>
-      </div>
-    </section>);
-
-}
-
 // ---------- INFO CEREMONIA -------------------------------------
 function Ceremonia() {
   return (
@@ -177,6 +138,51 @@ function Ceremonia() {
     </section>);
 
 }
+
+
+// ---------- MENSAJE --------------------------------------------
+function Mensaje() {
+  return (
+    <section className="section">
+      <div className="wrap two-col">
+        <div className="photo-placeholder" />
+        <div className="message">
+          <div className="eyebrow">Una nota de los novios</div>
+          <h2>Vuestra presencia es el regalo. Esto es la letra pequeña.</h2>
+          <p>
+            Creemos que ya habéis hecho suficiente esfuerzo tanto con el viaje como con el alojamiento en San José. Por lo tanto, eso es más que suficiente. 
+            Si aún así queréis también hacer algún regalo, hemos pensado que, para que podáis poner cara a la típica aportación económica, proponeros aquí abajo en qué queréis que lo destinemos. 
+            Y hemos pensado en dos cosas que pueden sernos de utilidad ahora mismo. Os ponemos en contexto.
+            Estamos haciendo dos cosas a la vez y las dos dan vértigo: reformar la casa
+            en la que queremos pasar los próximos mil inviernos y escaparnos quince días
+            de luna de miel para recordar cómo es no tener escombros en el pasillo.
+          </p>
+          <p>La casa está pendiente de una buena reforma: hay un baño que aún no existe pero ya tiene nombre, una cocina marcada con cinta de carrocero, paredes pidiendo pintura a gritos y un suelo que, a día de hoy, sigue siendo el de la anterior dueña.
+
+
+
+
+          </p>
+          <p>
+            Resumiendo, buscando ser prácticos y originales hemos cambiado la típica lista de regalos por algo más útil. Con vuestra aportación os invitamos a que decidáis en qué lo vamos a emplear:
+            <strong> trocitos de la reforma</strong> (un inodoro, unos azulejos, la
+            mano de obra del pintor) o <strong>trocitos del viaje</strong> (un vuelo,
+            una cena, un masaje). Cada regalo es para una persona, pareja o panda que
+            se ponga de acuerdo. Elegís, ponéis vuestro nombre, y ya nosotros nos ocupamos de ello. Os enviaremos una foto cuando todo esté terminado para que veáis cómo ha quedado. 
+            Esto hace unos años hubiese sido complejo, pero con ayuda de la IA, hemos podido crear esta web que nos ha permitido (aquí abajo el resultad ) llevar a cabo la idea. 
+          </p>
+          <p>
+            Os facilitamos el número de cuenta: ES75 0128 7820 8801 0448 4045 (Bankinter).
+            Y gracias, en serio: por venir, por estar (y si es el caso, por regalarnos un trozo de
+            nuestras próximas alegrías domésticas).
+          </p>
+          <div className="sign">— Lorena &amp; Salva</div>
+        </div>
+      </div>
+    </section>);
+
+}
+
 
 // ---------- TARJETA REGALO -------------------------------------
 function Card({ regalo, reserva, onPick }) {
